@@ -1,5 +1,5 @@
 # Software Engineer | ML, AI and Security Enthusiast
-
+**[[CV](https://drive.google.com/file/d/1mYg1v7p2T_K0sqUR-SF1oJ6ONMMkJgpD/view?usp=sharing)] | [[Email](mailto:neyamul47@student.sust.edu)] | [[LinkedIn](https://www.linkedin.com/in/neyamul-sbr/)]**
 ## Education
 - B.Sc.(Engg.), Computer Science & Engineering (CSE), Shahjalal University of Science and Technology, Bangladesh (_2023_)								       		
 - HSC, Science, Betagi Govt. College (_2016_)	 			        		
@@ -16,7 +16,7 @@
 ## Thesis
 ### A Secure and Usable CAPTCHA for Bengali Language. [[Report](https://drive.google.com/file/d/1VRG7ixx69a-C085fUJGjrcA9TQ-b4JMR/view)]
 
-Our work was about determining the vulnerability of CAPTCHAs embedded in websites by building an Evaluation Framework to determine how secure the CAPTCHAs are without performing any attacks. Then we performed attacks to validate the framework. With the vulnerabilities and security concerns in mind, We have designed a secure Bengali CAPTCHA that is secure from all the current CAPTCHA attacks. We conducted an extensive usability study involving over 200 participants, utilizing a fully developed website (referenced on the CV). The usability study encompassed a questionnaire administered after each type of CAPTCHA used by the participants to assess their usability, and we examined the correlation between the ideal response and the user responses. Based on the feedback received, we iteratively developed a novel CAPTCHA that is secure and user-friendly. [[Usability Study Website](https://neyamul.pythonanywhere.com/)]
+- Our work was about determining the vulnerability of CAPTCHAs embedded in websites by building an Evaluation Framework to determine how secure the CAPTCHAs are without performing any attacks. Then we performed attacks to validate the framework. With the vulnerabilities and security concerns in mind, We have designed a secure Bengali CAPTCHA that is secure from all the current CAPTCHA attacks. We conducted an extensive usability study involving over 200 participants, utilizing a fully developed website (referenced on the CV). The usability study encompassed a questionnaire administered after each type of CAPTCHA used by the participants to assess their usability, and we examined the correlation between the ideal response and the user responses. Based on the feedback received, we iteratively developed a novel CAPTCHA that is secure and user-friendly. [[Usability Study Website](https://neyamul.pythonanywhere.com/)]
 
 
 
