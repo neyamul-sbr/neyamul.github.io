@@ -78,4 +78,4 @@ then make a sequence out of it.
 
 
 ## Leadership Experience
-- Publication Secretary @ Barishal Divisional Students Association SUST, Sylhet(2019 – 2020)
+- **Publication Secretary @ Barishal Divisional Students Association SUST, Sylhet(2019 – 2020)**
