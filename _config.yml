@@ -1,8 +1,5 @@
 title: Neyamul Shibbir
 logo: /assets/img/neyamul_circle.jpg
-#description: text below image
+description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
-footer {
-    display: none;
-}
