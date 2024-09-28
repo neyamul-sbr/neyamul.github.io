@@ -1,5 +1,6 @@
-title: Neyamul Shibbir
+title: Minimal theme
 logo: /assets/img/neyamul_circle.jpg
-#description: text below image
-#show_downloads: true
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
