@@ -45,23 +45,16 @@ then make a sequence out of it.
 
 - ### **University Management System**  
   A web project on building a University Management System with three groups of users, each with different roles and features.  
-  **Technologies:** Django, Chart.js, PostgreSQL, HTML, CSS, Ajax  
-  [GitHub Link](https://github.com/neyamul-sbr/university_management_system_extend)
-
+  **Technologies:** Django, Chart.js, PostgreSQL, HTML, CSS, Ajax [[GitHub](https://github.com/neyamul-sbr/university_management_system_extend)]
 - ### **E-commerce API, Bank API, Seller API**  
   Developed three APIs—E-commerce, Bank, and Seller—that interact to simulate an effective e-commerce ecosystem.  
-  **Technologies:** Express.js, MongoDB  
-  [GitHub Link](https://github.com/neyamul-sbr/CSE446--Ecom_API-Supplier_API_Bank-API_2017331047_2017331051)
-
+  **Technologies:** Express.js, MongoDB [[GitHub Link](https://github.com/neyamul-sbr/CSE446--Ecom_API-Supplier_API_Bank-API_2017331047_2017331051)]
 - ### **Facial Expression Recognition via Deep Learning - Web App**  
   An improved model for Facial Expression Recognition (FER) with a deployed web application.  
-  **Technologies:** Django, HTML, CSS, Keras, TensorFlow  
-  [GitHub Link](https://github.com/neyamul-sbr/Web-App-for-Facial-Expression-Detection)
-
+  **Technologies:** Django, HTML, CSS, Keras, TensorFlow [[GitHub](https://github.com/neyamul-sbr/Web-App-for-Facial-Expression-Detection)]
 - ### **Computer Graphics Project: Car Paint and Drive**  
   A project where a moving car is controlled via keystrokes, with the car’s wheels and body being filled/unfilled with different colors via mouse clicks.  
-  **Technologies:** C, WinBGIm  
-  [GitHub Link](https://github.com/neyamul-sbr/Web-App-for-Facial-Expression-Detection)
+  **Technologies:** C, WinBGIm [[GitHub](https://github.com/neyamul-sbr/Web-App-for-Facial-Expression-Detection)]
 
 ## Online Judge Problem Solving
 - **Codeforces:** Solved 314 problems(Neyamul). 
