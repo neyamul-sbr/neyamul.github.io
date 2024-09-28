@@ -23,6 +23,7 @@ Our work was about determining the vulnerability of CAPTCHAs embedded in website
 ## Oher Researches
 ### POS tagging of Code-Mixed Language(BN_EN)
 - We developed a parts of speech (POS) tagger for Bengali & English mixed sentences. We seperated the Bengali and English part using a Bi-LSTM language identifier, then used separate POS tagger for Bengali and English Language, then combined it by mapping into universal POS tagset. This model can automatically create code-mixed Bengali English dataset without the expensive and time consuming manual annotation from human. Then we used LLM Bert to generalize the problem in ML. And we have got better result in it.
+
   
 ### Facial Expression Recognition using CNN and LSTM
 - The purpose of this research is to make a supervised model for recognizing Facial Expressions of human faces
