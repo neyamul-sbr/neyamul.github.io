@@ -10,7 +10,7 @@
 - Worked on the Gateway Development, Testing, and Production for various operator’s API integration into the company’s platform,
 - **Technologies:** C#, .NET
 
-**Lecturer @ Sylhet International University(SIU) (March 2023 - June 2023_)**
+**Lecturer @ Sylhet International University(SIU) (_March 2023 - June 2023_)**
 - Taught the courses: Object Oriented Programming, Data Structure and Algorithm, Digital Logic Design, Computer Graphics
 
 ## Thesis
@@ -19,7 +19,7 @@
 Our work was about determining the vulnerability of CAPTCHAs embedded in websites by building an Evaluation Framework to determine how secure the CAPTCHAs are without performing any attacks. Then we performed attacks to validate the framework. With the vulnerabilities and security concerns in mind, We have designed a secure Bengali CAPTCHA that is secure from all the current CAPTCHA attacks. We conducted an extensive usability study involving over 200 participants, utilizing a fully developed website (referenced on the CV). The usability study encompassed a questionnaire administered after each type of CAPTCHA used by the participants to assess their usability, and we examined the correlation between the ideal response and the user responses. Based on the feedback received, we iteratively developed a novel CAPTCHA that is secure and user-friendly. **[Usability Study Website](https://neyamul.pythonanywhere.com/)**
 
 ![aa meme by schizoidman](/assets/img/captcha2.jpeg)
-<img src="/assets/img/captcha2.jpeg" alt="aa meme by schizoidman" style="width: 50; height: auto;">
+<img src="/assets/img/captcha2.jpeg" alt="aa meme by schizoidman" width = "50">
 
 ## Oher Researches
 ### POS tagging of Code-Mixed Language(BN_EN)
@@ -74,5 +74,5 @@ then make a sequence out of it.
 - JSC: JSC Scholarship 2012
 - SSC: SSC Scholarship 2014 
 - PSC: PSC Scholarship 2008
-##Leadership Experience
-**Publication Secretary @ Barishal Divisional Students Association SUST, Sylhet(2019 – 2020)**
+### Leadership Experience
+- Publication Secretary @ Barishal Divisional Students Association SUST, Sylhet(2019 – 2020)
