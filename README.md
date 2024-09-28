@@ -14,9 +14,9 @@
 - Taught the courses: Object Oriented Programming, Data Structure and Algorithm, Digital Logic Design, Computer Graphics
 
 ## Thesis
-### A Secure and Usable CAPTCHA for Bengali Language. **[Report](https://drive.google.com/file/d/1VRG7ixx69a-C085fUJGjrcA9TQ-b4JMR/view)**
+### A Secure and Usable CAPTCHA for Bengali Language. [Report](https://drive.google.com/file/d/1VRG7ixx69a-C085fUJGjrcA9TQ-b4JMR/view)
 
-Our work was about determining the vulnerability of CAPTCHAs embedded in websites by building an Evaluation Framework to determine how secure the CAPTCHAs are without performing any attacks. Then we performed attacks to validate the framework. With the vulnerabilities and security concerns in mind, We have designed a secure Bengali CAPTCHA that is secure from all the current CAPTCHA attacks. We conducted an extensive usability study involving over 200 participants, utilizing a fully developed website (referenced on the CV). The usability study encompassed a questionnaire administered after each type of CAPTCHA used by the participants to assess their usability, and we examined the correlation between the ideal response and the user responses. Based on the feedback received, we iteratively developed a novel CAPTCHA that is secure and user-friendly. **[Usability Study Website](https://neyamul.pythonanywhere.com/)**
+Our work was about determining the vulnerability of CAPTCHAs embedded in websites by building an Evaluation Framework to determine how secure the CAPTCHAs are without performing any attacks. Then we performed attacks to validate the framework. With the vulnerabilities and security concerns in mind, We have designed a secure Bengali CAPTCHA that is secure from all the current CAPTCHA attacks. We conducted an extensive usability study involving over 200 participants, utilizing a fully developed website (referenced on the CV). The usability study encompassed a questionnaire administered after each type of CAPTCHA used by the participants to assess their usability, and we examined the correlation between the ideal response and the user responses. Based on the feedback received, we iteratively developed a novel CAPTCHA that is secure and user-friendly. [Usability Study Website](https://neyamul.pythonanywhere.com/)
 
 <img src="/assets/img/captcha2.jpeg" alt="aa meme by schizoidman" width = 30%>
 aa meme by schizoidman
@@ -56,12 +56,12 @@ then make a sequence out of it.
 - **Others:** LaTeX, Postman, Illustrator, Kibana, Looker
 
 ## Online Judge Problem Solving
-- Codeforces: Solved 314 problems(Neyamul). 
-- Vjudge: Solved 202 problems(2017331047).
-- Lightoj: Solved 44 problems(neyamul). 
-- Uva: Solved 49 problems(Neyamul).
-- LeetCode: Solved 55 problems(Neyamul). 
-- HackerRank: Solved 52 problems(Neyamul).
+- **Codeforces:** Solved 314 problems(Neyamul). 
+- **Vjudge:** Solved 202 problems(2017331047).
+- **Lightoj:** Solved 44 problems(neyamul). 
+- **Uva:** Solved 49 problems(Neyamul).
+- **LeetCode:** Solved 55 problems(Neyamul). 
+- **HackerRank:** Solved 52 problems(Neyamul).
 
 ## Online Certified Courses
 - Deep Learning Specialization Coursera
