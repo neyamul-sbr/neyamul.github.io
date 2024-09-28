@@ -1,7 +1,7 @@
 # Software Engineer | ML, AI and Security Enthusiast
 
 ## Education
-- B.Sc.(Engg.) in Computer Science & Engineering (CSE) | Shahjalal University of Science and Technology, Bangladesh (_2023_)								       		
+- B.Sc.(Engg.), Computer Science & Engineering (CSE) | Shahjalal University of Science and Technology, Bangladesh (_2023_)								       		
 - HSC, Science	| Betagi Govt. College (_2016_)	 			        		
 - SSC, Science | Betagi High School (_2014_)
 
@@ -23,6 +23,7 @@ Our work was about determining the vulnerability of CAPTCHAs embedded in website
 ## Oher Researches
 ### POS tagging of Code-Mixed Language(BN_EN)
 - We developed a parts of speech (POS) tagger for Bengali & English mixed sentences. We seperated the Bengali and English part using a Bi-LSTM language identifier, then used separate POS tagger for Bengali and English Language, then combined it by mapping into universal POS tagset. This model can automatically create code-mixed Bengali English dataset without the expensive and time consuming manual annotation from human. Then we used LLM Bert to generalize the problem in ML. And we have got better result in it.
+  
 ### Facial Expression Recognition using CNN and LSTM
 - The purpose of this research is to make a supervised model for recognizing Facial Expressions of human faces
 using two models CNN and LSTM. Our approach to this problem was quite new and different. We trained the model in such a way that the emotional
