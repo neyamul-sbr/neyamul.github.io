@@ -1,12 +1,12 @@
 # Software Engineer | ML, AI and Security Enthusiast
 **[[CV](https://drive.google.com/file/d/1mYg1v7p2T_K0sqUR-SF1oJ6ONMMkJgpD/view?usp=sharing)] | [[Email](mailto:neyamul47@student.sust.edu)] | [[LinkedIn](https://www.linkedin.com/in/neyamul-sbr/)]**
 ## Education
-- B.Sc.(Engg.), Computer Science & Engineering (CSE), Shahjalal University of Science and Technology, Bangladesh (_2023_)								       		
+- B.Sc.(Engg.), **Computer Science & Engineering (CSE), Shahjalal University of Science and Technology (SUST)**, Bangladesh (_2023_)								       		
 - HSC, Science, Betagi Govt. College (_2016_)	 			        		
 - SSC, Science, Betagi High School (_2014_)
 
 ## Work Experience
-**Junior Engineer @ Ding - Multinational Mobile TopUp Operator Company (_July 2023 - August 2024_)**
+**Junior Engineer @ Ding (_July 2023 - August 2024_)**
 - Worked on the Gateway Development, Testing, and Production for various operator’s API integration into the company’s platform,
 - **Technologies:** C#, .NET
 
