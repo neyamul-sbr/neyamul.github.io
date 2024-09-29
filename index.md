@@ -1,4 +1,4 @@
-# Software Engineer | ML, AI and Security Enthusiast
+# Software Engineer | Security/Privacy & AI Enthusiast
 **[[CV](https://drive.google.com/file/d/1mYg1v7p2T_K0sqUR-SF1oJ6ONMMkJgpD/view?usp=sharing)] | [[Email](mailto:neyamul47@student.sust.edu)] | [[LinkedIn](https://www.linkedin.com/in/neyamul-sbr/)]**
 ## Education
 - B.Sc.(Engg.), Computer Science & Engineering (CSE), Shahjalal University of Science and Technology, Bangladesh (_2023_)								       		
